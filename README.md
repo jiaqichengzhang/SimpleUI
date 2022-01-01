@@ -1,6 +1,7 @@
 # simple_ui_v1_pkg
 
 ## Project setup
+desc: 一个UI组件库
 ```
 npm install
 ```
